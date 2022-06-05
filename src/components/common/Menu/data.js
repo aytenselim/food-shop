@@ -1,7 +1,7 @@
 export const menuItemsData = [
   {
     id: 1,
-    name: 'Mediterranean  Salad',
+    name: 'Burger ',
     info: 'spicey with garlic and then deep fried to crispy perfection',
     price: 24,
     img: '/images/bigBurger.png',
@@ -15,7 +15,7 @@ export const menuItemsData = [
   },
   {
     id: 3,
-    name: 'Burger',
+    name: 'Mediterranean  Salad',
     info: 'spicey with garlic and then deep fried to crispy perfection',
     price: 24,
     img: '/images/bowl2.png',
@@ -92,27 +92,13 @@ export const menuItemsData = [
   },
   {
     id: 14,
-    name: 'hamburger',
-    info: 'spicey with garlic and then deep fried to crispy perfection',
-    price: 24,
-    img: '/images/kisspng-hamburger-street-food-seafood-fast-food-delicious-food-5a75083cceaf41.2676743415176192608466.png',
-  },
-  {
-    id: 15,
     name: 'israeli salad',
     info: 'spicey with garlic and then deep fried to crispy perfection',
     price: 24,
     img: '/images/kisspng-israeli-salad-european-cuisine.png',
   },
   {
-    id: 16,
-    name: 'Pizza Pasta',
-    info: 'spicey with garlic and then deep fried to crispy perfection',
-    price: 24,
-    img: '/images/kisspng-italian-cuisine-pizza-pasta-food-plate-healthy-food-5abb864701e2b7.3892346415222390470077.png',
-  },
-  {
-    id: 17,
+    id: 15,
     name: 'Pizza',
     info: 'spicey with garlic and then deep fried to crispy perfection',
     price: 24,
